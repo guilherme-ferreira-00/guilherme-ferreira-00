@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**guilherme-ferreira-00/guilherme-ferreira-00** is a ✨ _special_ ✨ .
 
-Here are some ideas to get you started:
+
+Mais Sobre:
 
 - 🔭 Trabalho Com T.I. ...
 - 🌱 Atualmente estou aprendendo Flutter ...
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Pergunte-me sobre tecnologia ...
 - 📫 guilhermeferreira@souunilavras.com: ...
 - ⚡ Chuck Norris contou até o infinito. Duas vezes.: ...
--->
+
